@@ -14,6 +14,8 @@ import static org.junit.Assert.*;
  */
 public class TestTaskTwo extends AbstractTest {
 
+
+
     @Test
     public void testSecondLocationConstructorExists() throws ClassNotFoundException {
 
